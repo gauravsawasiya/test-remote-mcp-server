@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "Food": [
+        "Groceries",
+        "Restaurant",
+        "Fast Food",
+        "Coffee",
+        "Snacks",
+        "Other"
+      ]
+    },
+    {
+      "Transport": [
+        "Fuel",
+        "Bus",
+        "Train",
+        "Taxi",
+        "Parking",
+        "Other"
+      ]
+    },
+    {
+      "Housing": [
+        "Rent",
+        "Maintenance",
+        "Furniture",
+        "Cleaning",
+        "Security",
+        "Other"
+      ]
+    },
+    {
+      "Utilities": [
+        "Electricity",
+        "Water",
+        "Internet",
+        "Gas",
+        "Mobile Recharge",
+        "Other"
+      ]
+    },
+    {
+      "Shopping": [
+        "Clothing",
+        "Shoes",
+        "Electronics",
+        "Accessories",
+        "Home Decor",
+        "Other"
+      ]
+    },
+    {
+      "Health": [
+        "Doctor",
+        "Medicine",
+        "Hospital",
+        "Health Insurance",
+        "Medical Tests",
+        "Other"
+      ]
+    },
+    {
+      "Entertainment": [
+        "Movies",
+        "Games",
+        "Streaming",
+        "Events",
+        "Books",
+        "Other"
+      ]
+    },
+    {
+      "Education": [
+        "Books",
+        "Courses",
+        "Stationery",
+        "Exam Fees",
+        "Online Learning",
+        "Other"
+      ]
+    },
+    {
+      "Personal Care": [
+        "Salon",
+        "Cosmetics",
+        "Skincare",
+        "Gym",
+        "Toiletries",
+        "Other"
+      ]
+    },
+    {
+      "Travel": [
+        "Flight",
+        "Train",
+        "Hotel",
+        "Local Transport",
+        "Sightseeing",
+        "Other"
+      ]
+    }
+  ]
+}
